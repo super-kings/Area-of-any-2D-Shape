@@ -1,0 +1,12 @@
+We need to implement the same thing using OOP concept.
+Make this program able to calculate outer, inner surface area and volume of 3d shapes.
+Also 2d shape perimeter.
+And many more.......
+Make an app that has GUI.
+This gives us a list of operations that can be performed.
+These operations are buttons.
+After clicking a button, we need to give input in a text field and hit GO.
+Then calculation happens and returns the answer.
+That's it.
+
+Note:>>Edits are entertained only by organization members.(Guys... please start a pull request before commiting as master)
