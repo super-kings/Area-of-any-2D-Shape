@@ -1,0 +1,7 @@
+>>>Write a C program that can calculate the area of any 2D shape.
+Programming Language that we use is C.
+We use separate functions for each shape.
+The main function displays a list of 2D shapes that our program can calculate area. We use Switch statement for selecting a shape.
+Then the user is asked to give input.
+The respective function is called and that one returns our area.
+That's it.
